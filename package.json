@@ -1,0 +1,27 @@
+{
+  "name": "example-redux-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanatapple/example-redux-todo-list.git"
+  },
+  "keywords": [],
+  "author": "kanatapple <edamame1224@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanatapple/example-redux-todo-list/issues"
+  },
+  "homepage": "https://github.com/kanatapple/example-redux-todo-list#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  }
+}
